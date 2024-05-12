@@ -1,0 +1,13 @@
+.link-deco {
+  text-decoration: none;
+  color: White;
+  font-weight: 500;
+}
+
+.link-deco:hover {
+  color: rgb(255, 164, 164);
+}
+
+.bgColor {
+  background-color: rgb(212, 23, 23) !important;
+}
